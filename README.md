@@ -1,0 +1,2 @@
+# AngularMovies
+angular project displaying movies from api and you can login and your data will  be stored in the database and when you login the from check if the email and password  is correct or not and we applied routing guards when you login your data will be stored in  the local storage so if you refresh you will not logout  and I have applied routing and I have used reactive form and applied validations
